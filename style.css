@@ -12,6 +12,10 @@ body {
 
 }
 
+h1 {
+    font-size: 22px;
+}
+
 .title {
     color: white; 
     font-size: 35px;
@@ -49,6 +53,7 @@ body {
     text-align: center;
     border: 5px solid darkgray;
     background-color: darkgray;
+    font-size: 22px;
 }
 
 .objetivos {
@@ -62,12 +67,12 @@ body {
 .lista {
     text-align: center;
     padding: 20px;
-    padding-top: 15px;
+    padding-top: 20px;
     margin-top: 2%;
     border: 5px solid darkgray;
     background-color: darkgray;
     color: white;
-    font-size: medium
+    font-size: 22px
 }
 
 .image {
@@ -83,10 +88,9 @@ body {
 
 footer {
     width: 100%;
-    background-color: darkgray;
+    background-color: gray;
     bottom: 0;
-    padding: 20px;
-    position: fixed;
+    padding: 10px;
     text-align: center;
 } 
 
